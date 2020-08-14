@@ -6,7 +6,7 @@
 
 ## I'm a full time undergrad with a passion for data science!
 
-- 📍 Junior standing at Hamline University [<img align="middle" alt="HU" width="26px" src="https://hamlineathletics.com/images/logos/site/site.png" />][HU]
+- 📍 Junior standing at Hamline University [<img align="middle" alt="HU" width="50px" src="https://hamlineathletics.com/images/logos/site/site.png" />][HU]
   - 💻 Computational Data Science Major
   - 📈 Business Analytics and Economics double minor
 - 🏈 I run a [sport analytics twitter page][twitter] and share my analyses!
@@ -17,23 +17,23 @@
 
 ### Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="linkedin | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="twitter | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
-[<img align="left" alt="Pandas" width="26px" src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" />][pandas]
-[<img align="left" alt="Matplotlib" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" />][matplotlib]
-[<img align="left" alt="Seaborn" width="26px" src="https://ml.globenewswire.com/Resource/Download/3aa5711b-ec4f-471e-8c56-cd0403c128c2?size=2" />][seaborn]
-[<img align="left" alt="Sci-Kit Learn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />][scikit]
-[<img align="left" alt="Numpy" width="26px" src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" />][numpy]
-[<img align="left" alt="Statsmodels" width="26px" src="https://i1.wp.com/coursack.com/wp-content/uploads/2020/05/statsmodels-logo-v2-1.png?resize=251%2C181&ssl=1" />][statsmodels]
-[<img align="left" alt="Colab" width="26px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />][colab]
-[<img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />][jupyter]
+[<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
+[<img align="left" alt="Pandas" width="50px" src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" />][pandas]
+[<img align="left" alt="Matplotlib" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" />][matplotlib]
+[<img align="left" alt="Seaborn" width="50px" src="https://ml.globenewswire.com/Resource/Download/3aa5711b-ec4f-471e-8c56-cd0403c128c2?size=2" />][seaborn]
+[<img align="left" alt="Sci-Kit Learn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />][scikit]
+[<img align="left" alt="Numpy" width="50px" src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" />][numpy]
+[<img align="left" alt="Statsmodels" width="50px" src="https://i1.wp.com/coursack.com/wp-content/uploads/2020/05/statsmodels-logo-v2-1.png?resize=251%2C181&ssl=1" />][statsmodels]
+[<img align="left" alt="Colab" width="50px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />][colab]
+[<img align="left" alt="Jupyter" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />][jupyter]
 
 <br />
 <br />
