@@ -1,7 +1,7 @@
 ### My name is Max Bolger - Welcome to my GitHub! 👋
 ###### *click on the logos/icons to visit their respective sites!*
 
-[![Website](https://img.shields.io/twitter/url?color=%230277B5&label=Connect%20on%20LinkedIn&logo=LinkedIn&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmax-bolger%2F)](https://www.linkedin.com/in/max-bolger/)
+[![Website](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-bolger/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mnpykings?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmaxbolger&screen_name=mnpykings)
 
 ## I'm a full time undergrad with a passion for data science!
