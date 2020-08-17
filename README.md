@@ -15,14 +15,6 @@
 - 🧪 Experience:
   - eSports data analyst for DFS content provider [Occupy Fantasy][occupy]. Created a script that parses DraftKings contest data and returns actionable lineup construction advice for users.
 
-### Connect with me:
-
-[<img align="left" alt="linkedin | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="twitter | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-
-<br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="Python" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
@@ -34,6 +26,15 @@
 [<img align="left" alt="Statsmodels" width="65px" src="https://i1.wp.com/coursack.com/wp-content/uploads/2020/05/statsmodels-logo-v2-1.png?resize=251%2C181&ssl=1" />][statsmodels]
 [<img align="left" alt="Colab" width="65px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />][colab]
 [<img align="left" alt="Jupyter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />][jupyter]
+
+<br />
+
+
+### Connect with me:
+
+[<img align="left" alt="linkedin | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="twitter | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 
 <br />
 <br />
