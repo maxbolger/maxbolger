@@ -15,6 +15,7 @@
 - 🧪 Experience:
   - eSports data analyst for DFS content provider [Occupy Fantasy][occupy]. Created a script that parses DraftKings contest data and returns actionable lineup construction advice for users.
 
+
 ### Languages and Tools:
 
 [<img align="left" alt="Python" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
@@ -27,7 +28,11 @@
 [<img align="left" alt="Colab" width="65px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />][colab]
 [<img align="left" alt="Jupyter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />][jupyter]
 
+
 <br />
+<br />
+<br />
+
 
 
 ### Connect with me:
