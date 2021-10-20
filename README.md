@@ -18,7 +18,7 @@
   
   *(to learn more about these positions, check out my LinkedIn or website by clicking the respective buttons above!)*
   
-- 🏈 I run a [sport analytics twitter page][twitter] and share my analyses!
+- 🏈 I run a [sports analytics twitter page][twitter] and share my analyses!
 - 📊 I love data visualization!
 - 🥅 2022 Goals: Graduate undergrad, learn as much as I can, have fun!
 
