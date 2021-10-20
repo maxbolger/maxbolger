@@ -16,7 +16,7 @@
   - Data scientist for the Hamline University Marketing Analytics Clinic (HUMAC) 
   - eSports data analyst for DFS content provider [Occupy Fantasy][occupy]
   
-  *(to learn more about these positions, check out my LinkedIn page by clicking the button above!)*
+  *(to learn more about these positions, check out my LinkedIn or website by clicking the respective buttons above!)*
   
 - 🏈 I run a [sport analytics twitter page][twitter] and share my analyses!
 - 📊 I love data visualization!
