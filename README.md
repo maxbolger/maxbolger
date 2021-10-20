@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-bolger/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mnpykings?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmaxbolger&screen_name=mnpykings)
 
-## I'm a full time undergrad with a passion for data science!
+## I'm a full-time undergrad with a passion for data science and machine learning!
 
 - 📍 Senior standing at Hamline University [<img align="middle" alt="HU" width="50px" src="https://hamlineathletics.com/images/logos/site/site.png" />][HU]
   - 💻 Computational Data Science Major
