@@ -12,7 +12,7 @@
   - 📈 Business Analytics and Economics double minor
 
 - 🧪 **Experience**:
-  - Data science intern and machine learning intern at [Optum][optum]
+  - Data science and machine learning intern at [Optum][optum]
   - Data scientist for the Hamline University Marketing Analytics Clinic (HUMAC) 
   - eSports data analyst for DFS content provider [Occupy Fantasy][occupy]
   
