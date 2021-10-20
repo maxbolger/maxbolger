@@ -10,7 +10,7 @@
 - 📍 Senior standing at Hamline University [<img align="middle" alt="HU" width="50px" src="https://hamlineathletics.com/images/logos/site/site.png" />][HU]
   - 💻 Computational Data Science Major
   - 📈 Business Analytics and Economics double minor
-  - 
+
 - 🧪 Experience:
   - Data science intern and machine learning intern at [Optum][optum]
   - Data scientist for the Hamline University Marketing Analytics Clinic (HUMAC) 
