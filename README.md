@@ -7,7 +7,7 @@
 
 ## I'm a full-time undergrad with a passion for data science and machine learning!
 
-- 📍 **Senior standing undergrad at Hamline University** [<img align="middle" alt="HU" width="50px" src="https://hamlineathletics.com/images/logos/site/site.png" />][HU]
+- 📍 **Senior standing undergrad at Hamline University** [<img align="middle" alt="HU" width="40px" src="https://hamlineathletics.com/images/logos/site/site.png" />][HU]
   - 💻 Computational Data Science Major
   - 📈 Business Analytics and Economics double minor
 
