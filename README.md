@@ -1,9 +1,17 @@
 ## My name is Max Bolger - Welcome to my GitHub! 👋
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxbolger&hide=ruby&theme=tokyonight&layout=compact" />
+
 ###### *click on the logos/icons to visit their respective sites!*
+
+<br>
 
 [![Website](https://img.shields.io/badge/My_Website_Portfolio-9cf?style=for-the-badge)](https://maxbolger.github.io/)
 [![Website](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-bolger/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mnpykings?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmaxbolger&screen_name=mnpykings)
+
+<br>
+<br>
 
 ## I'm a full-time undergrad with a passion for data science and machine learning!
 
