@@ -13,22 +13,24 @@
 <br>
 <br>
 
-## I'm a full-time undergrad with a passion for data science and machine learning!
+## I'm a healthcare data scientist with a passion for data science and machine learning!
 
-- 📍 **Senior standing undergrad at Hamline University** [<img align="middle" alt="HU" width="40px" src="https://hamlineathletics.com/images/logos/site/site.png" />][HU]
+- 📍 **Recent Grad of Hamline University** [<img align="middle" alt="HU" width="30px" src="https://hamlineathletics.com/images/logos/site/site.png" />][HU]
   - 💻 Computational Data Science Major
   - 📈 Business Analytics and Economics double minor
 
 - 🧪 **Experience**:
-  - Data science and machine learning intern at [Optum][optum]
-  - Data scientist for the [Hamline University Marketing Analytics Clinic][MAC] (HUMAC) 
-  - eSports data analyst for DFS content provider [Occupy Fantasy][occupy]
+  - 👨‍⚕️ Data scientist at [Optum][optum]
+  - 👨‍⚕️ Data science and machine learning intern at [Optum][optum]
+  - 📊 Data scientist for the [Hamline University Marketing Analytics Clinic][MAC] (HUMAC) 
+  - 🎮 eSports data analyst for DFS content provider [Occupy Fantasy][occupy]
   
   *(to learn more about these positions, check out my LinkedIn or website by clicking the respective buttons above!)*
   
-- 🏈 I run a [sports analytics twitter page][twitter] and share my analyses!
-- 📊 I love data visualization!
-- 🥅 2022 Goals: Graduate undergrad, learn as much as I can, have fun!
+- 🏆 **Awards**
+  - 📚 2022 MinneAnalytics Scholarship Recipient
+  - 🥇 2022 Lund Science Speaking Competition First Place
+  - 🏈 2020 NFL Big Data Bowl Honorable Mention 
 
 ## Languages and Tools:
 
