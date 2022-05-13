@@ -15,17 +15,19 @@
 
 ## I'm a healthcare data scientist with a passion for data science and machine learning!
 
-- 📍 **Recent Grad of Hamline University** [<img align="middle" alt="HU" width="30px" src="https://hamlineathletics.com/images/logos/site/site.png" />][HU]
+- 🧪 **Experience**:
+  - **Current:**
+    -  👨‍⚕️ Data scientist at [Optum][optum] (May 2022 - Present)
+    -  🎮 eSports data analyst for DFS content provider [Occupy Fantasy][occupy] (*Freelance*, April 2020 - Present)
+  -  **Previous:**
+     - 👨‍⚕️ Data science intern at [Optum][optum] (May 2021-April 2022)
+     - 📊 Data scientist for the [Hamline University Marketing Analytics Clinic][MAC] (December 2020 - December 2021)
+
+  *(to learn more about these positions, check out my LinkedIn or website by clicking the respective buttons above!)*
+
+- 📍 **Recent Grad of Hamline University**
   - 💻 Computational Data Science Major
   - 📈 Business Analytics and Economics double minor
-
-- 🧪 **Experience**:
-  - 👨‍⚕️ Data scientist at [Optum][optum]
-  - 👨‍⚕️ Data science and machine learning intern at [Optum][optum]
-  - 📊 Data scientist for the [Hamline University Marketing Analytics Clinic][MAC] (HUMAC) 
-  - 🎮 eSports data analyst for DFS content provider [Occupy Fantasy][occupy]
-  
-  *(to learn more about these positions, check out my LinkedIn or website by clicking the respective buttons above!)*
   
 - 🏆 **Awards**
   - 📚 2022 MinneAnalytics Scholarship Recipient
