@@ -1,38 +1,16 @@
 ## My name is Max Bolger - Welcome to my GitHub! 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxbolger&hide=ruby&theme=tokyonight&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxbolger&hide=ruby&theme=tokyonight&layout=compact" />
+
+
+### I am Data scientsit at Optum with 3+ years of experience developing, automating, maintaining, and scaling machine learning models in fast-paced, technical environments.
+
+### This is my personal GitHub where you will find all of my personal projects throughout my data science journey (mostly during undergrad)
 
 ###### *click on the logos/icons to visit their respective sites!*
 
-<br>
-
 [![Website](https://img.shields.io/badge/My_Website_Portfolio-9cf?style=for-the-badge)](https://maxbolger.github.io/)
 [![Website](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-bolger/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mnpykings?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmaxbolger&screen_name=mnpykings)
-
-<br>
-<br>
-
-## I'm a healthcare data scientist with a passion for data science and machine learning!
-
-- 🧪 **Experience**:
-  - **Current:**
-    -  👨‍⚕️ Data scientist at [Optum][optum] (May 2022 - Present)
-    -  🎮 eSports data analyst for DFS content provider [Occupy Fantasy][occupy] (*Freelance*, April 2020 - Present)
-  -  **Previous:**
-     - 👨‍⚕️ Data science intern at [Optum][optum] (May 2021-April 2022)
-     - 📊 Data scientist for the [Hamline University Marketing Analytics Clinic][MAC] (December 2020 - December 2021)
-
-  *(to learn more about these positions, check out my LinkedIn or website by clicking the respective buttons above!)*
-
-- 📍 **Recent Grad of Hamline University**
-  - 💻 Computational Data Science Major
-  - 📈 Business Analytics and Economics double minor
-  
-- 🏆 **Awards**
-  - 📚 2022 MinneAnalytics Scholarship Recipient
-  - 🥇 2022 Lund Science Speaking Competition First Place
-  - 🏈 2020 NFL Big Data Bowl Honorable Mention 
 
 ## Languages and Tools:
 
@@ -45,7 +23,6 @@
 [<img align="left" alt="streamlit" width="70px" src="https://assets.website-files.com/5dc3b47ddc6c0c2a1af74ad0/5e181828ba9f9e92b6ebc6e7_RGB_Logomark_Color_Light_Bg.png" />][streamlit]
 [<img align="left" alt="Matplotlib" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" />][matplotlib]
 [<img align="left" alt="Seaborn" width="70px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F315810%2F92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png&f=1&nofb=1" />][seaborn]
-<img align="left" alt="R" width="70px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpythonatrix.com%2Fwp-content%2Fuploads%2F2020%2F03%2Fsql-logo-with-database.png&f=1&nofb=1" />
 
 <br>
 <br>
@@ -63,12 +40,6 @@
 <br>
 <br>
 
-### **Environments/IDEs**
-
-[<img align="left" alt="vs" width="70px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Ftags%2Fimages%2F000%2F001%2F280%2Flandscape%2Fvscode-logo.png&f=1&nofb=1" />][vs]
-[<img align="left" alt="Jupyter" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />][jupyter]
-[<img align="left" alt="Colab" width="70px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />][colab]
-
 
 [twitter]: https://twitter.com/mnpykings
 [linkedin]: https://www.linkedin.com/in/max-bolger/
@@ -76,19 +47,14 @@
 [scikit]: https://scikit-learn.org/stable/
 [pandas]: https://pandas.pydata.org/
 [matplotlib]: https://matplotlib.org/
-[colab]: https://colab.research.google.com/notebooks/intro.ipynb
 [seaborn]: https://seaborn.pydata.org/
 [numpy]: https://numpy.org/
-[jupyter]: https://jupyter.org/
 [statsmodels]: https://www.statsmodels.org/stable/index.html
 [HU]: https://www.hamline.edu/
 [MAC]: https://www.hamline.edu/business/undergraduate/marketing-analytics-clinic/
-[optum]: https://www.optum.com/
-[occupy]: https://occupyfantasy.com/
 [streamlit]: https://www.streamlit.io/
 [GAS]: https://www.google.com/script/start/
 [js]: https://www.javascript.com/
 [p5]: https://p5js.org/
 [R]: https://www.r-project.org/
 [tidy]: https://www.tidyverse.org/
-[vs]: https://code.visualstudio.com/
