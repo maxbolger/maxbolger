@@ -3,7 +3,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxbolger&hide=ruby&theme=tokyonight&layout=compact" />
 
 
-### I am Data scientsit at Optum with 3+ years of experience developing, automating, maintaining, and scaling machine learning models in fast-paced, technical environments.
+### I am Data scientist at Optum with 3+ years of experience developing, automating, maintaining, and scaling machine learning models in fast-paced, technical environments.
 
 ### This is my personal GitHub where you will find all of my personal projects throughout my data science journey (mostly during undergrad)
 
