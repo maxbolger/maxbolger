@@ -5,7 +5,7 @@
 
 ### I am Healthcare Data Scientist with 4+ years of experience developing, automating, maintaining, and scaling machine learning models in fast-paced, technical environments.
 
-### This is my personal GitHub where you will find all of my personal projects
+### This is my personal GitHub where you will find all of my personal projects.
 
 ###### *click on the logos/icons to visit their respective sites!*
 
